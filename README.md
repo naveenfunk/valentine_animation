@@ -1,3 +1,5 @@
-# Trying Custom Paint
+# Animating Custom Paint Object
 
-A flutter app for learning custom paint started on Valentine's Day :heartpulse:
+A flutter app to learn custom paint and animations :heartpulse:
+
+[TweenSequence](https://api.flutter.dev/flutter/animation/TweenSequence-class.html) is used for chained animations.
